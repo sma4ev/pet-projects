@@ -1,0 +1,1 @@
+A small project for practicing the skill of API data retrieval using currency rates as an example. The sources are the site of the Central Bank of Russia, pycbrf library and information from a third-party site. 
